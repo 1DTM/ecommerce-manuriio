@@ -108,3 +108,15 @@ footer{
     gap: 20px;
     margin-bottom: 100px;
 }
+
+@media (max-width:768px){
+    .tenis-card{
+        font-size: 0.8em;
+       }
+}
+
+@media (max-width:500px){
+    section{
+        background-image: none;
+    }
+}
